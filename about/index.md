@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 date: 2016-08-13
 comments: false
 ---
 
 # EstherX
 
-### About me
+### Bio
 
 长于岭南，求学西洋，辗转东瀛，今居风城。
 
