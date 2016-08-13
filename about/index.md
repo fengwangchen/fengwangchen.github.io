@@ -14,7 +14,7 @@ MBA在读。5年财务与风控经验。Econ Math背景。文，法，ACG，音�
 
 * 文明和野蛮可以融合
 
-* political correctness
+* Political correctness
 
 * Hilary Clinton
 
