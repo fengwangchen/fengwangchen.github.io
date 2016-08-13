@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 
 assets: /assets
 baseurl: 
@@ -24,8 +24,8 @@ redcarpet:
     - with_toc_data
     
 
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : 因缘重
+tagline: 谁知渐渐因缘重...
 
 defaults:
   -
@@ -80,8 +80,8 @@ mathjax: false      #enable mathjax if true
 #### Author information
 author:
   name: yitao      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
+  intro_line1:  "你好,我是EstherX。"    ## your introduction on the bottom of the page
+  intro_line2:  "古调虽自爱,今人多不弹。向君投此曲,所贵知音难。"  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
@@ -106,7 +106,7 @@ toc:
 #### Links
 links:
   码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+
 
 
 
