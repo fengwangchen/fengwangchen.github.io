@@ -1,3 +1,10 @@
+---
+layout: page
+title: About the Theme
+date: 2016-08-13
+comments: false
+---
+
 # EstherX
 
 ### About me
