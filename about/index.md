@@ -12,11 +12,17 @@ MBA在读。5年财务与风控经验。Econ Math背景。文，法，ACG，音�
 
 对以下事物保持强烈怀疑：
 
-*文明和野蛮可以融合
-*political correctness
-*Hilary Clinton
-*小孩子都是天使
-*天真的善良
+* 文明和野蛮可以融合
+
+* political correctness
+
+* Hilary Clinton
+
+* 小孩子都是天使
+
+* 天下无不是的父母
+
+* 天真的善良
 
 ### Aphorism
 
